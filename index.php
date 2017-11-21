@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Test FormData Arrays</title>
+  <title>JS FormData Arrays</title>
 </head>
 <body>
   <script type="text/javascript">
